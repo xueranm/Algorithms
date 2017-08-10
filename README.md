@@ -1,1 +1,3 @@
 # Algorithms
+Introduction:
+Course includes topologic sort, Kruskal's and Prim's methods,sssp, Bellman-Ford, Dijkstra's algorithm, shortest paths and matrix multiplication, Floyd-Warshall algorithm, dynamic programming, matrix chain multiplication, longest common subsequence, optimal BSTs, greedy algorithms, task scheduling, Huffman codes, entropy, divide and conquer, disjoint sets, NP-completeness and so on. 
